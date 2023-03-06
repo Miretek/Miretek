@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miresa_Tekle
-- 👀 I’m interested in Software Development focusing on mobile application development
+- 👀 I’m interested in Software Development - more focused on mobile application development
 - 🌱 I’m currently learning MERN stack and flutter
 - 💞️ I’m looking to collaborate on Mobile App development with flutter
 - 📫 How to reach me:
